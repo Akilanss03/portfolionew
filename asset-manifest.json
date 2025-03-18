@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9fe40f7c.css",
+    "main.js": "/static/js/main.f9c17d70.js",
+    "static/js/453.00a0f9b5.chunk.js": "/static/js/453.00a0f9b5.chunk.js",
+    "static/media/group3.jpeg": "/static/media/group3.10d47fd68853caa7cc93.jpeg",
+    "static/media/group2.jpeg": "/static/media/group2.cbcea69047e23196a87a.jpeg",
+    "static/media/group1.jpeg": "/static/media/group1.7d57ef0eb7cda3dd2da9.jpeg",
+    "static/media/Light-Bulb-PNG-Free-Download.png": "/static/media/Light-Bulb-PNG-Free-Download.8876a3d66b8475140cb3.png",
+    "static/media/WhatsApp Image 2025-02-28 at 13.21.06_ccdd6b4d.jpg": "/static/media/WhatsApp Image 2025-02-28 at 13.21.06_ccdd6b4d.0cb1cfd7734e9aab266e.jpg",
+    "index.html": "/index.html",
+    "main.9fe40f7c.css.map": "/static/css/main.9fe40f7c.css.map",
+    "main.f9c17d70.js.map": "/static/js/main.f9c17d70.js.map",
+    "453.00a0f9b5.chunk.js.map": "/static/js/453.00a0f9b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fe40f7c.css",
+    "static/js/main.f9c17d70.js"
+  ]
+}
